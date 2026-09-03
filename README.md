@@ -6,7 +6,7 @@ A Power BI dashboard created as a practical project during my 30-Day Masterclass
 
 This dashboard provides an interactive view of student mental health, academic performance, and lifestyle-related factors.
 
-### Key Insights
+## Key Insights
 - Total Students
 - Depression Cases
 - Average CGPA
